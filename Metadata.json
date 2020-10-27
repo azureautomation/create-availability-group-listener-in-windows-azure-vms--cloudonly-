@@ -1,0 +1,20 @@
+{
+    "Author": "Cephas Lin",
+    "ContentSize": 17824,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-availability-group-listener-in-windows-azure-vms-(cloudonly)/master/ConfigureAGListenerCloudOnly.ps1",
+    "DownloadCount": 2485,
+    "Id": "Create-Availability-Group-fff94cd5",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 556,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2013-8-5T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script configures an availability group listener for an availability group that is running in Windows Azure VMs. It automatically configures the Windows Azure settings and also configures each VM remotely using PowerShell remoting.",
+    "Title": "Create Availability Group Listener in Windows Azure VMs (Cloud-Only)",
+    "UpdatedDate": "2013-11-22T00:00:00",
+    "Url": "https://github.com/azureautomation/create-availability-group-listener-in-windows-azure-vms-(cloudonly)",
+    "UserTags": "Microsoft Azure, Powershell, High Availability"
+}
